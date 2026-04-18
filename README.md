@@ -5,24 +5,12 @@ NovaBuy is a robust, full-stack e-commerce solution engineered with a Node.js/Ex
 ---
 
 ## 📸 Screenshots
+![alt text](<public/images/Screenshot 2026-04-18 222029.png>)
+![alt text](<public/images/Screenshot 2026-04-18 222046.png>)
+![alt text](<public/images/Screenshot 2026-04-18 222109.png>)
+![alt text](<public/images/Screenshot 2026-04-18 222203.png>)
+![alt text](<public/images/Screenshot 2026-04-18 222215.png>)
 
-<!-- 
-======================================================
-  ADD YOUR WEBSITE SCREENSHOTS HERE
-  Replace the placeholder image paths with your actual 
-  screenshot paths.
-======================================================
--->
-
-### Home Page
-> *Placeholder for Home Page Screenshot*
-> 
-> `![Home Page](./public/images/screenshot-home.png)`
-
-### Shop & Cart View
-> *Placeholder for Shop & Cart Screenshot*
-> 
-> `![Shop & Cart](./public/images/screenshot-cart.png)`
 
 ---
 
